@@ -78,5 +78,6 @@ VoiceOps is an accessibility-focused developer tool that translates natural spok
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/voiceops.git](https://github.com/YOUR_USERNAME/voiceops.git)
+git clone [https://github.com/jhimaja/voiceops.git](https://github.com/jhimaja/voiceops.git)
 cd voiceops
+
